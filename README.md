@@ -13,6 +13,7 @@ Currently, two official plugins are available:
 # Social Media App
 
 A social media application built using the MERN (MongoDB, Express, React, Node.js) stack. This app allows users to create profiles, post content, interact with other users, and much more.
+Here the the Demo Link of Website https://social-mediay.netlify.app/
 
 ## Features
 
